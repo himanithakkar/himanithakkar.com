@@ -1,15 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107223912-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
+
+      gtag('config', 'UA-107223912-1');
+    </script>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P8KV2ZQ');
+    </script>
+    <!-- End Google Tag Manager -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Himani Thakkar</title>
     <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="author" content="Himani Thakkar" />
+    <meta name="keywords" content="himani thakkar, Himani, Thakkar, Developer, Mobile App, Mobile Application, Website, Web Application, Front-end developer, Programmer, Freelance, Portfolio, Resume, IT, Information technology, World wide web, html5, Responsive website, web design, himanithakkar, himaninthakkar, Illinois, Uninted states, USA, United Airlines, India, Indian" />
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
@@ -17,8 +35,11 @@
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
     <script type="text/javascript" src="processing.js"></script>
 </head>
-
 <body class="light">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8KV2ZQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div class="preloader">
         <div class="spinner"><strong>Loading...<i class="fa-li fa fa-spinner fa-spin"></i></strong></div>
     </div>
@@ -39,12 +60,13 @@
                 <div class="name-block-container">
                     <h1><span>Hi, I'm</span>Himani Thakkar</h1>
                     <h2>Web/Mobile Application Developer</h2>
-                    <a class="btn btn-download" a href="https://www.dropbox.com/s/yi72hqiwnnwvxr1/Resume.pdf?dl=1" >Download Resume</a>
+                    <a class="btn btn-download" a href="https://www.dropbox.com/s/hiwwgznocuc1895/resume.pdf?dl=1">Download Resume</a>
                     <ul class="social">
                         <li><a href="https://www.facebook.com/himaninthakkar"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://twitter.com/himaninthakkar"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="https://www.linkedin.com/in/himanithakkar/"><i class="fa fa-linkedin"></i></a></li>   
-                        <li><a href="https://github.com/himanithakkar"><i class="fa fa-github"></i></a></li>                 </ul>
+                        <li><a href="https://github.com/himanithakkar"><i class="fa fa-github"></i></a></li>                 
+                    </ul>
                 </div>
             </div>
             <div class="menu-blocks">
@@ -75,15 +97,14 @@
                         <h3 class="block-title">Profile</h3>
                         <div class="row">
                             <div class="col-md-7">
-                                <p>Ambitious Freelance developer for a year and a year internship in the website development by using Agile Modeling for Object Oriented programming, with serious development skills using Frameworks like Bootstrap, JQuery Mobile, Apache Cordova and WordPress, committed to maintaining cutting edge technical skills and up-to-date industry knowledge. </p>
+                                <p>Ambitious Freelance developer for a year and a year internship in the website development with an aptitude for programming in PHP, with serious development skills using Frameworks like Bootstrap, JQuery Mobile, Apache Cordova and WordPress, committed to maintaining cutting-edge technical skills and up-to-date industry knowledge. </p>
                             </div>
                             <div class="col-md-5">
                                 <ul class="info-list">
                                     <li><strong>Name : </strong> Himani Thakkar</li>
                                     <li><strong>Date of birth : </strong> December 31, 1993 </li>
-                                    <li><strong>Address : </strong> 145 Oliver Ct, Schaumburg, IL</li>
-                                    <li><strong>Email : </strong> write@himanithakkar.com</li>
-                                    <li><strong>Phone : </strong> + 1 331-771-9853</li>
+                                    <li><strong>Address : </strong> 233 S. Wacker Drive WHQEO 14th Floor | Chicago, IL 60606</li>
+                                    <li><strong>Email : </strong> write@himanithakkar.com, himani.thakkar@united.com</li>
                                     <li><strong>Skype : </strong> thakkarhimani</li>
                                     <li><strong>Interest : </strong> freelance, full-time</li>
                                 </ul>
@@ -150,6 +171,8 @@
                                             <li>Structure DataBase</li>
                                             <li>SEO Optimization</li>
                                             <li>RESTFul APIs</li>
+                                            <li>D3.jS</li>
+                                            <li>Visual Studio 2012</li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-6 col-xs-6">
@@ -161,6 +184,9 @@
                                             <li>Social Media Marketing</li>
                                             <li>Web Development</li>
                                             <li>AngularJS</li>
+                                            <li>PhotoShop</li>
+                                            <li>Processing.js</li>
+                                            <li>Team Foundation Server</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -174,32 +200,54 @@
                                 <div class="col-md-12">
                                     <div class="exp-holder">
                                         <div class="exp">
+                                                <div class="hgroup">
+                                                    <h4>United Airlines – Front-end Web Developer </h4>
+                                                    <h5>Oct 2017 - <span class="current">Current</span></h5>
+                                                </div>
+                                                <p>Working within the Digital Consumer Acquisition space that with the company’s merchandising, conversions and revenue by creating HTML/CSS/JavaScripts and managing the existing pages/creating new ones as needed according to the design requests from the UI/UX team. Manage content updates and create lists in SharePoint that attach to the pages, and also manage 3 offshore and 6 onshore resources.</p>
+                                        </div>
+                                        <div class="exp">
+                                                <div class="hgroup">
+                                                    <h4>MakerFest – Communication And Partnerships</h4>
+                                                    <h5>Jan 2016 – Jan 2017<!--<span class="current">Current</span>--></h5>
+                                                </div>
+                                                <p>Core team member of one of the biggest TechFest of India hosted by Silicon valley Venture Capitalist Asha Jadeja Motwani from MJFF. Helped develop a network of teams across all departments.Partnered with tech labs, MIT’s Fablabs, tech communities like Mozilla, Google developer group across India.Developed marketing strategies for exhibitors and participants from all across the cities and rural areas in India.Collaborated with Brazil and Pakistan to start their very own MakerFest and helped them build a framework to organize the event on their own.Worked with delegates from U.S, France, U.K for keynote speeches.Worked with Startups and their pitching sessions for local VCs at the MakerFest main Startup event.
+                                                </p>
+                                        </div>
+                                        <div class="exp">
                                             <div class="hgroup">
                                                 <h4>VY Tech – Backend Developer </h4>
                                                 <h5>Jan 2017 - Mar 2017<!--<span class="current">Current</span>--></h5>
                                             </div>
-                                            <p>Developed a Backend Admin panel and Product management tool for an eCommerce Android Mobile Application using Bootstrap.Helped develop web services using Postman tool for the data exchange between app and the back end.</p>
+                                            <p>Developed a Backend Admin panel and Product management tool for an eCommerce Android Mobile Application using Bootstrap.Helped develop web services using Postman tool for the data exchange between the app and the back end.</p>
                                         </div>
                                         <div class="exp">
                                             <div class="hgroup">
                                                 <h4>pH Designs – WordPress Website Developer </h4>
-                                                <h5>Sept 2015 - Nov 2015</h5>
+                                                <h5>Sept 2016 - Nov 2016</h5>
                                             </div>
                                             <p>Developed a product listing and product portfolio website using Wordpress.Manged products on database in MySQL.Hosted and maintained the website on server.</p>
+                                        </div>
+                                        <div class="exp">
+                                            <div class="hgroup">
+                                                <h4>FabLab CEPT University - Data Visualization research Intern</h4>
+                                                <h5>Feb 2015 – May 2016</h5>
+                                            </div>
+                                            <p>Researched on how to develop efficient interactive data visualizations that enable decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed. Used Processing.Js And D3.js for data visualizations.</p>
                                         </div>
                                         <div class="exp">
                                             <div class="hgroup">
                                                 <h4>SF Patel Sons India Private Limited – Mobile Application Developer</h4>
                                                 <h5>June 2015 - April 2016</h5>
                                             </div>
-                                            <p>Developed an internal product listing and internet free accessible cross-platform mobile application for dealers and sales force of the company Using JQuery Mobile for App UI, Apache Cordova as a framework,GitHub as version control repositor and Initiated Updates and maintenance of the application as required on Playstore.</p>
+                                            <p>Developed an internal product listing and internet free accessible cross-platform mobile application for dealers and sales force of the company Using JQuery Mobile for App UI, Apache Cordova as a framework, GitHub as version control repository and Initiated Updates and maintenance of the application as required on Playstore.</p>
                                         </div>
                                         <div class="exp">
                                             <div class="hgroup">
                                                 <h4>Vivacious Web Solutions, Pvt Ltd. – Web Developer Intern</h4>
                                                 <h5>June 2014 - March 2015</h5>
                                             </div>
-                                            <p>Used Project Managent technologies like : UML, ERD, Feasibility test as a part of Aglie Development. Helped Develop an eCommerce website from scratch using bootstrap for webpages.JavaScript for programming and validation.PHP as server side backend scripting.Served as a secondary database administrator on MySQL running on various operating systems.</p>
+                                            <p>Used Project Management technologies like UML, ERD, Feasibility test as a part of Agile Development. Helped Develop an eCommerce website from scratch using bootstrap for web pages.JavaScript for programming and validation.PHP as server-side backend scripting.Served as a secondary database administrator on MySQL running on various operating systems.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -214,77 +262,16 @@
                                     <div class="exp-holder">
                                         <div class="exp">
                                             <div class="hgroup">
-                                                <h4>Bachelor Degree – Gujarat University </h4>
-                                                <h5>June 2012 - May 2015</h5>
+                                                <h4>Bachelor's in Computer Application – CPI, Gujarat University </h4>
+                                                <h5>June 2012 - March 2016</h5>
                                             </div>
                                            <!--  <p>Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p> -->
                                         </div>
-                                        <!-- <div class="exp">
-                                            <div class="hgroup">
-                                                <h4>Master Degree – Mutation Media </h4>
-                                                <h5>Sept 2015 - Nov 2015</h5>
-                                            </div>
-                                            <p>ore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut alUt enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt labore et doliquip ex ea commodo consequat inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                        </div>
-                                        <div class="exp">
-                                            <div class="hgroup">
-                                                <h4>School Of Science – Mutation Media </h4>
-                                                <h5>May 2015 - Sept 2015</h5>
-                                            </div>
-                                            <p>Ut enim ad minim veniam, quis nostrud exerc. Irure dolor in reprehend incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- <div class="block-content">
-                        <h3 class="block-title">Services</h3>
-                        <div class="row">
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-pencil"></i>
-                                </div>
-                                <h4>Web Design</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-building"></i>
-                                </div>
-                                <h4>App Development</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-image"></i>
-                                </div>
-                                <h4>Graphic Design</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-print"></i>
-                                </div>
-                                <h4>Print Design</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-image"></i>
-                                </div>
-                                <h4>Graphic Design</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                            <div class="col-md-4 col-sm-6 service">
-                                <div class="service-icon">
-                                    <i class=" fa fa-print"></i>
-                                </div>
-                                <h4>Print Design</h4>
-                                <p>Ne cum invidunt constituto, sanctus accusam an usu, ea mandamus incorrupte mel. Pro cu purto graeco. Wisi sonet elitr eos in. </p>
-                            </div>
-                        </div>
-                    </div> -->
+                    </div>        
                     <div class="block-content">
                         <h3 class="block-title">Awards</h3>
                         <div class="row">
@@ -321,19 +308,19 @@
                                 <ul class="testimonials">
                                     <li>
                                         <img src="images/testimonials/1.jpg" alt="">
-                                        <blockquote>This template is exactly what we were looking for!
+                                        <blockquote>some text
                                             <p class="quote"><span>Brendon Rodgers</span> - CEO of xyz.com</p>
                                         </blockquote>
                                     </li>
                                     <li>
                                         <img src="images/testimonials/2.jpg" alt="">
-                                        <blockquote>This template is very nice! Great work
+                                        <blockquote>some text
                                             <p class="quote"><span>Becky Allwood</span> - CEO of abc.com</p>
                                         </blockquote>
                                     </li>
                                     <li>
                                         <img src="images/testimonials/3.jpg" alt="">
-                                        <blockquote>My work has been significantly simplified.
+                                        <blockquote>some text
                                             <p class="quote"><span>Elly Page</span> - CEO of nfl.com</p>
                                         </blockquote>
                                     </li>
@@ -382,7 +369,7 @@
                                             <div class="project-overlay">
                                                 <div class="vcenter">
                                                     <div class="centrize">
-                                                        <h4>Fablab Data Visualisation</h4>
+                                                        <h4>Data Visualisation</h4>
                                                         <p>Web / Apps</p>
                                                     </div>
                                                 </div>
@@ -390,7 +377,7 @@
                                         </a>
                                         <img src="images/portfolio/ActivitiesResize_1.jpg" alt="">
                                     </div>
-                                    <div class="project graphic video">
+                                    <!-- <div class="project graphic video">
                                         <a class="open-project" href="phdesigns.html">
                                             <div class="project-overlay">
                                                 <div class="vcenter">
@@ -403,7 +390,7 @@
                                         </a>
                                         <img src="images/portfolio/3.jpg" alt="">
                                     </div>
-                                    <!-- <div class="project graphic">
+                                    <div class="project graphic">
                                         <a class="open-project" href="project-1.html">
                                             <div class="project-overlay">
                                                 <div class="vcenter">
@@ -595,16 +582,7 @@ If you see a perfectly melted ice cube you could never know if it were an ice cu
                                     </div>
                                     <div class="contact-details">
                                         <h5>Address</h5>
-                                        <p>145 Oliver Ct, Schaumburg, IL</p>
-                                    </div>
-                                </div>
-                                <div class="contact-content ">
-                                    <div class="contact-icon">
-                                        <i class="fa fa-phone"></i>
-                                    </div>
-                                    <div class="contact-details">
-                                        <h5>Call me on</h5>
-                                        <p> +1 - 3317719853</p>
+                                        <p>233 S. Wacker Drive WHQEO 14th Floor | Chicago, IL 60606</p>
                                     </div>
                                 </div>
                                 <div class="contact-content ">
