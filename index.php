@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="processing.js"></script>
+    <script type="text/javascript" src="js/processing.js"></script>
 </head>
 <body class="light">
     <!-- Google Tag Manager (noscript) -->
@@ -352,7 +352,7 @@
                                 </ul>
                                 <div id="projects">
                                     <div class="project graphic apps">
-                                        <a class="open-project" href="SFP_APP.html">
+                                        <a class="open-project" href="pages/SFP_APP.html">
                                             <div class="project-overlay">
                                                 <div class="vcenter">
                                                     <div class="centrize">
@@ -365,7 +365,7 @@
                                         <img src="images/portfolio/sfp_logo.png" alt="">
                                     </div>
                                     <div class="project web apps">
-                                        <a class="open-project" href="fablab.html">
+                                        <a class="open-project" href="pages/fablab.html">
                                             <div class="project-overlay">
                                                 <div class="vcenter">
                                                     <div class="centrize">
@@ -597,7 +597,7 @@ If you see a perfectly melted ice cube you could never know if it were an ice cu
                             </div>
                             
                             <div class="col-md-6">
-                                <form method="POST" action="http://demo.lion-coders.com/hello/hello/php/contact_me.php" id="formcontactus" class="">
+                                <form method="POST" action="" id="formcontactus" class="">
                                     <div class="form-group">
                                         <input name="name" type="text" class="form-control requiretop" placeholder="* Your Name" />
                                     </div>
